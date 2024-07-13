@@ -16,5 +16,5 @@ A classic two-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 * Javascipt
 
 ### Getting Started
-1. Clone this repository: `git clone https://github.com/AmithShaji/Tic-Tac-Toe.git`
+1. Clone this repository: `git clone https://github.com/amith-shaji/Tic-Tac-Toe.git`
 2. Open the `index.html` file in your preferred web browser.
